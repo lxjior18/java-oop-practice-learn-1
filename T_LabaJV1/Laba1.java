@@ -1,7 +1,7 @@
 import java.util.Random;   // Класс для генерации случайных чисел
 import java.util.Scanner;  // Класс для ввода данных с клавиатуры
 
-public class Laba2 {
+public class Laba1 {
 
     // Главный метод программы
     public static void main(String[] args) {
